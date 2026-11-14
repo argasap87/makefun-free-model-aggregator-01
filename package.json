@@ -1,0 +1,1 @@
+{"description":"Free-tier model aggregator: one server speaking OpenAI and Anthropic wires, routing across 10 free providers (make.fun bounty free-model-aggregator-01).","license":"MIT","name":"makefun-free-model-aggregator-01","type":"module","version":"1.0.0"}

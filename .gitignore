@@ -1,0 +1,7 @@
+test/trial-*/
+test/*/state/
+test/*/scores/
+test/*/env.log
+test/*/server.log
+test/*/score.log
+node_modules/
